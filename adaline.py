@@ -10,7 +10,6 @@ weight = np.random.rand(3, 1)  # three vector weight of randomly generated numbe
 bias = np.random.rand(1)
 learning_rate = 0.5
 
-
 # activation function
 def activation(x):
     return 1 / (1 + np.exp(-x))
