@@ -1,0 +1,14 @@
+In this folder are 10 machine learning algorithms implemented
+in python by: 
+
+P15/101552/2017
+SAMUEL KIPLAGAT RUTTO
+
+
+Ensure that the program files are in the same folder as the csv files in
+order to ensure that they run.
+
+Install 'csv', 'math', 'matplotlib', 'numpy', 'unicodecsv' packages to the user IDE 
+before running the codes.
+
+To run the programs, open in a python IDE and click 'Run'.
